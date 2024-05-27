@@ -46,4 +46,4 @@ To reproduce the analysis or perform further queries:
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the Apache License License - see the [LICENSE](LICENSE) file for details.
